@@ -5,6 +5,3 @@ streamlit
 pandas
 plotly
 numpy
-streamlit
-pandas
-plotly
